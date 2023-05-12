@@ -17,6 +17,7 @@
 body{
     min-width: 80%;
     margin: 5% 10%;
+    margin-bottom: 0;
     min-height: 100vh;
     font-family: "Inter", sans-serif;
 	font-size: 15px;
@@ -161,6 +162,7 @@ header{
 /* bottom articles section starts */
 .article_container{
     margin: 1rem 0;
+    margin-bottom: 5rem;
     /* border: 3px solid green; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -187,6 +189,7 @@ header{
 .article_heading:hover{
     color: var(--soft-red);
 }
+
 .article_text{
     color: var(--dark-grayish-blue);
     
@@ -196,11 +199,13 @@ header{
 
 /* footer starts */
 
-/* footer{
-    position: absolute;
+footer{
+    position: relative;
     bottom: 0;
-    left: 0;
-} */
+    left: 50;
+    /* border: 3px solid black; */
+    margin-bottom: 0;
+}
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
