@@ -127,7 +127,7 @@ To practice more CSS and JavaScript helps me to focus on future projects.
 
 ### Useful resources
 
-- (https://developer.mozilla.org/en-US/docs/Glossary/Grid) - This helped me for understand Grid layout.
+- https://developer.mozilla.org/en-US/docs/Glossary/Grid - This helped me for understand Grid layout.
 
 
 ## Author
@@ -140,6 +140,6 @@ To practice more CSS and JavaScript helps me to focus on future projects.
 
 ## Acknowledgments
 
-- To make mobile responsive navbar I refer this video.[](https://www.youtube.com/watch?v=HbBMp6yUXO0&t=2332s) 
+- To make mobile responsive navbar I refer this video.[Responsive navbar tutorial using HTML CSS & JS](https://www.youtube.com/watch?v=HbBMp6yUXO0&t=2332s) 
 
 
