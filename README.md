@@ -38,8 +38,8 @@ Mobile view:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Subashkumar-S/Frontend_Mentor_NEWS_homepage)
-- Live Site URL: [Add live site URL here](https://news-home-main-page.web.app/index.html)
+- Solution URL: [(https://github.com/Subashkumar-S/Frontend_Mentor_NEWS_homepage)]
+- Live Site URL: [(https://news-home-main-page.web.app/index.html)]
 
 ## My process
 
