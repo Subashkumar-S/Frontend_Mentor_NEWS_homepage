@@ -140,6 +140,6 @@ To practice more CSS and JavaScript helps me to focus on future projects.
 
 ## Acknowledgments
 
--To make mobile responsive navbar I refer this video.[](https://www.youtube.com/watch?v=HbBMp6yUXO0&t=2332s) 
+- To make mobile responsive navbar I refer this video.[](https://www.youtube.com/watch?v=HbBMp6yUXO0&t=2332s) 
 
 
