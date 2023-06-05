@@ -38,8 +38,8 @@ Mobile view:
 
 ### Links
 
-- Solution URL: [(https://github.com/Subashkumar-S/Frontend_Mentor_NEWS_homepage)]
-- Live Site URL: [(https://news-home-main-page.web.app/index.html)]
+- Solution URL: (https://github.com/Subashkumar-S/Frontend_Mentor_NEWS_homepage)
+- Live Site URL: (https://news-home-main-page.web.app/index.html)
 
 ## My process
 
@@ -127,7 +127,7 @@ To practice more CSS and JavaScript helps me to focus on future projects.
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Glossary/Grid) - This helped me for understand Grid layout.
+- (https://developer.mozilla.org/en-US/docs/Glossary/Grid) - This helped me for understand Grid layout.
 
 
 ## Author
