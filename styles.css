@@ -106,14 +106,15 @@ header{
     overflow: auto;
 }
 .inner_container2 a{
-    width: 8rem;
-    height: 2rem;
+    text-align: center;
+    width: 10rem;
+    height: 3rem;
     border: none;
     background-color: var(--soft-red);
     font-size: 1rem;
     color: var(--off-white);
     text-transform: uppercase;
-    padding: .5rem .5rem; 
+    padding: 1rem .5rem; 
     letter-spacing: 1px;
 }
 .inner_container2 a:hover{
